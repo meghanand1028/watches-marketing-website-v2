@@ -3,7 +3,7 @@
 Welcome to the **Rama Watches** marketing website! This project is a premium, interactive, single-page web application built to showcase high-tech smartwatches, highlighting their impact on students and professionals.
 
 ## 🌟 Live Demo
-*(Once deployed on Vercel, add your live link here)*
+url =[ watches-marketing-website-v2.vercel.app](https://watches-marketing-website-v2.vercel.app/)
 
 ## 🚀 Features
 - **Single-Page Scrolling:** Seamlessly navigate between Home, Showcase, Benefits, About, and Contact sections.
